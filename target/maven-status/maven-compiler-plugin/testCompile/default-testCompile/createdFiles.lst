@@ -1,0 +1,8 @@
+example\micronaut\$DefaultTest$Definition$Reference.class
+example\micronaut\GenreControllerTest.class
+META-INF\micronaut\io.micronaut.inject.BeanDefinitionReference\example.micronaut.$GenreControllerTest$Definition$Reference
+example\micronaut\$GenreControllerTest$Definition.class
+META-INF\micronaut\io.micronaut.inject.BeanDefinitionReference\example.micronaut.$DefaultTest$Definition$Reference
+example\micronaut\$DefaultTest$Definition.class
+example\micronaut\DefaultTest.class
+example\micronaut\$GenreControllerTest$Definition$Reference.class
